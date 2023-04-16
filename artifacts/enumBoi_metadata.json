@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "_status",
+				"outputs": [
+					{
+						"internalType": "enum enumBoi.status",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Enum.sol": "enumBoi"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Enum.sol": {
+			"keccak256": "0x69cfa702ed9b36b3deb129c15a147e0b9a878dc86e772835126896e5efafc01e",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://f895d6493dd47254fcc96655d5ac1825ea9c06ee33a241425d632261fa2940e3",
+				"dweb:/ipfs/QmNSjDn33sxXCndtFTv1d2NQtxGkccFQ7kNYL9p2Sxd7L4"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "DataSet",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "data",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"State&LocalVarable.sol": "state"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"State&LocalVarable.sol": {
+			"keccak256": "0x85c26751f3fc946e153636a402f557c1da05f6cbcd46ccd372bb45534960885a",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://38e9c95249f32afb518629f10580471cf41acc2cbbcae5a7fcdc68da31c1246a",
+				"dweb:/ipfs/QmTFKtcm3XYM3Bhm97y93YjrTjyAyMGS8LjQFtdZmH9518"
+			]
+		}
+	},
+	"version": 1
+}

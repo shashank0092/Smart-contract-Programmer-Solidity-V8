@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "data1",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "data2",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Multiple.sol": "MultipleInheritanceC"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Multiple.sol": {
+			"keccak256": "0x835428e45c4f28f18eb7d54c022123bd9dd4075721af2ca0d89f5f66f7ea95ff",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bb4831c1087e04a353f29e5002f52410168a60ab5be9855e63ec74f766609a61",
+				"dweb:/ipfs/QmS68rMLMwFTT2jJPQEidgaD8LW7SwXijeaananqs32RdK"
+			]
+		}
+	},
+	"version": 1
+}

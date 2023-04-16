@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Imuteable.sol": "Imute"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Imuteable.sol": {
+			"keccak256": "0x1d8c819da203ada920d4bb77008adf8f05c72920ae44efe646e3cc5c876934c3",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://976995a06a40250943ad60929cc3254c2035a3abec0069ce294735a6e48402c3",
+				"dweb:/ipfs/QmVwzExecZp1ytW4hWWoxRg9boGjfZzEk8kCrGsrgsthWG"
+			]
+		}
+	},
+	"version": 1
+}
